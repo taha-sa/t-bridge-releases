@@ -75,6 +75,7 @@
 
 - **Windows SmartScreen:** Kurulum dosyası açık/bağımsız dağıtım olduğu için ilk açılışta SmartScreen uyarısı görünürse **Ek bilgi → Yine de çalıştır** yolunu izleyebilirsiniz.
 - **Android Bilinmeyen Kaynaklar:** APK'yı açtığınızda cihazınız sorarsa *"Bu kaynaktan uygulamalara izin ver"* seçeneğini etkinleştirin. Sonraki güncellemeler uygulama içinden doğrudan üstüne kurulur.
+- **Google Play Protect Uyarısı:** Uygulama Play Store dışında doğrudan imzalı APK olarak sunulduğu için Android kurulumda Play Protect uyarısı gösterebilir. **Yine de yükle** seçeneğiyle (veya Play Store → Play Protect ayarlarından geçici kapatarak) güvenle kurabilirsiniz.
 - **Arka Plan & Otomatik Başlatma:** T-Bridge, cihaz markanızı otomatik algılar ve **Xiaomi (HyperOS/MIUI), Samsung (One UI), Huawei/Honor, OPPO/Realme/OnePlus, Vivo/iQOO, ASUS, Tecno/Infinix** gibi üreticilerde ilgili pil/otomatik başlatma ayarına doğrudan kısayol sunar. Saf Android (Pixel/AOSP) cihazlarda gereksiz marka adımları gösterilmez.
 
 </details>
