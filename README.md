@@ -30,7 +30,8 @@
 </div>
 
 <p align="center">
-  <img src="assets/screenshot.png" alt="T-Bridge Masaüstü Arayüzü" width="760" />
+  <img src="assets/screenshot.png" alt="T-Bridge Masaüstü Arayüzü" width="540" />
+  <img src="assets/screenshot-mobile.png" alt="T-Bridge Android Arayüzü" width="180" />
 </p>
 
 > **Not:** Bu depo yalnızca resmi derlenmiş Windows kurulum paketlerini, imzalı Android APK'yı, otomatik güncelleyici manifestlerini ve `SHA-256` doğrulama özetlerini barındırır.
