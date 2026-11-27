@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.svg" alt="T-Bridge Logo" width="96" height="96" />
+<img src="assets/logo.png" alt="T-Bridge Logo" width="96" height="96" />
 
 <h1>T-Bridge</h1>
 
